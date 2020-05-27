@@ -1,0 +1,25 @@
+1.Gender:
+Female£º   ----  2
+Male£º      ----- 1
+2.Educational  Level:
+Graduate£º ---- 1
+Diploma£º  ---- 2
+High school and less: ---3
+Post 1£º   ---- 4
+Ph.D.£º   -----5
+3.Monthlyincome:
+10,001 to 20,000£º1
+Less than 10,000£º2
+20,001 to 40,000£º3
+More than 80,000£º4
+40,001 to 60,000£º5
+7.Howlonghaveyoubeenusingyourcurrentmobileserviceprovide
+0-1 year£º1
+1-2 years£º2
+2-5 years£º3
+over 5 years£º4
+
+8£ºHaveyouchangedyourmobileserviceproviderbefore
+yes£º1
+no£º2
+
